@@ -11,5 +11,5 @@
 * meanandstddevdata.txt: contains only the measurements of a mean or standard deviation, subject and activity information.
 
 ###Second output 
-*tidydata.txt: is calculated with the average of each variable for each activity and each subject.
+* tidydata.txt: is calculated with the average of each variable for each activity and each subject.
 
